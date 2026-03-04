@@ -1,0 +1,20 @@
+
+## Example Menu
+
+1. Add Patient
+2. Display Patients
+3. Search Patient
+4. Exit
+
+## Learning Concepts
+
+This project demonstrates:
+
+- Structures in C
+- File handling (fread, fwrite)
+- Functions
+- Menu-driven programs
+
+## Author
+Velpuri Posibhavani
+BTech AIML

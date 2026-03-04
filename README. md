@@ -1,0 +1,31 @@
+# Hospital Management System (C)
+
+## Overview
+This is a simple Hospital Management System implemented in C.
+It allows users to manage patient records through a menu-driven interface.
+
+The system stores patient data in a file for permanent storage.
+
+## Features
+- Add new patient
+- Display all patients
+- Search patient by ID
+- Store records using file handling
+
+## Technologies Used
+- C Programming Language
+- File Handling
+- Structures
+- Functions
+- Menu Driven Interface
+
+## Data Stored
+Each patient record contains:
+- Patient ID
+- Name
+- Age
+- Disease
+
+## How to Compile
+
+Use GCC compiler:
